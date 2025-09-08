@@ -1,0 +1,6 @@
+-barrel_offset_3d="0 -0.1 0.6" and lower the speed to -0.4 for the chainsaw | DONE
+-Chain SAW RPM to 1000 (from 857) | DONE
+-implement new Pecheneg sound | DONE , need adjustment from weapon's file
+-pecheneg accuracy factor to 0.8 (from 0.7) | DONE
+-pecheneg fire rate to 545 RPM (from 488) | DONE
+-Pecheneg recoil recovery to 1.2 (from 0.8) | DONE

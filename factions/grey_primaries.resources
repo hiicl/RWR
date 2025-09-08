@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<weapon key='g36.weapon' />
+	<weapon key='imi_negev.weapon' />
+	<weapon key='psg90.weapon' />
+
+	<weapon key='scorpion-evo.weapon' />
+	<weapon key='spas-12.weapon' />
+
+	<weapon key='famasg1.weapon' />
+	
+	<weapon key='aug.weapon' />
+  <weapon key='mg4.weapon' />
+  <weapon key='chain_saw.weapon' />
+  <weapon key='pecheneg_bullpup.weapon' />
+  <weapon key='beretta_93r.weapon' />
+  <weapon key='apr.weapon' />
+  <weapon key='ppsh.weapon' />
+	<weapon key='scarssr.weapon' />
+<weapon key='cz805.weapon' />
+<weapon key='500scoped.weapon' />
+<weapon key='mag7.weapon' />
+</resources>
